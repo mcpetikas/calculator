@@ -16,11 +16,11 @@ function setRunningTotal () {
 
 function ClearInput () {
 // $(".clear-entry").click()
-// currentInput = 0;
+// currentInput = "";
 }
 
 function ClearAll () {
 // $(".clear-all").click()
-// runningTotal = 0;
-// currentInput = 0;
+// runningTotal = "";
+// currentInput = "";
 }
